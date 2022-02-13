@@ -46,7 +46,7 @@ public class CreateResourceAndVerifyInDatabase extends BaseAPIclass {
 		//step 5: validate
 		
 		Assert.assertEquals(expData, actData);
-	  Reporter.log("data verification successful", true);
+	    Reporter.log("data verification successful", true);
 	
 	
 	}
