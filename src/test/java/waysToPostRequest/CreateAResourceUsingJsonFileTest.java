@@ -8,7 +8,7 @@ import io.restassured.http.ContentType;
 
 import static io.restassured.RestAssured.*;
 
-public class CreateAResourceUsingJsonFile {
+public class CreateAResourceUsingJsonFileTest {
   @Test
 	public void create() {
 	  

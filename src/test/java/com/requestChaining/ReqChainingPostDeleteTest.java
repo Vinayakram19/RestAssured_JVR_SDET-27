@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
-public class ReqChainingPostDelete {
+public class ReqChainingPostDeleteTest {
 
 
 @Test

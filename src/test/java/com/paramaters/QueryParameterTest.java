@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 
-public class QueryParameter {
+public class QueryParameterTest {
 
 	@Test
 	public void queryperameter() {

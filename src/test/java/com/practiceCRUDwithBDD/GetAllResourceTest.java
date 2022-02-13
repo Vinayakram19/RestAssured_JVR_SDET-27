@@ -1,4 +1,4 @@
-package practiceCRUDwithBDD;
+package com.practiceCRUDwithBDD;
 
 import static io.restassured.RestAssured.*;
 
@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import io.restassured.http.ContentType;
 
-public class GetAllResource {
+public class GetAllResourceTest {
 	
 	
 	@Test

@@ -1,4 +1,4 @@
-package practiceCRUDwithoutBDD;
+package com.practiceCRUDwithoutBDD;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class GetAllProject {
+public class GetAllProjectTest {
 
 	
 	@Test

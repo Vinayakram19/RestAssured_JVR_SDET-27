@@ -16,7 +16,7 @@ import java.sql.SQLException;
 
 import pojoLibrary.pojoclass;
 
-public class CreateResourceAndVerifyInDatabase extends BaseAPIclass {
+public class CreateResourceAndVerifyInDatabaseTest extends BaseAPIclass {
 	
 	@Test
 	public void createResourceAndVerifyInDb() throws Throwable  {

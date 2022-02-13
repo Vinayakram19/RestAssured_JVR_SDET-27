@@ -1,4 +1,4 @@
-package practiceCRUDwithBDD;
+package com.practiceCRUDwithBDD;
 
 import static io.restassured.RestAssured.*;
 

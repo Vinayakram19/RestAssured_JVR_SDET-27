@@ -1,11 +1,11 @@
-package practiceCRUDwithoutBDD;
+package com.practiceCRUDwithoutBDD;
 
 import org.testng.annotations.Test;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
-public class GetSingleProject {
+public class GetSingleProjectTest {
 	
 	@Test
 	public void getsingleproject(){

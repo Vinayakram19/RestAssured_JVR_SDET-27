@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import pojoLibrary.pojoclass;
 import io.restassured.http.ContentType;
 
-public class CreateAResourseUsingPojo {
+public class CreateAResourseUsingPojoTest {
 	
 	@Test
 	public void create() {

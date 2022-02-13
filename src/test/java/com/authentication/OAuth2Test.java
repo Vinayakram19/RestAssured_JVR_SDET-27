@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.*;
 
-public class OAuth2 {
+public class OAuth2Test {
 
 	
 	@Test

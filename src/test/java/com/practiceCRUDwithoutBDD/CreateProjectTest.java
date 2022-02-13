@@ -1,4 +1,4 @@
-package practiceCRUDwithoutBDD;
+package com.practiceCRUDwithoutBDD;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
@@ -8,7 +8,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class CreateProject {
+public class CreateProjectTest {
 	
 	
 	@Test

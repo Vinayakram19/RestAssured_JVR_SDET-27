@@ -9,7 +9,7 @@ import io.restassured.specification.RequestSender;
 
 import static  io.restassured.RestAssured.*;
 
-public class StaticResponseValidation {
+public class StaticResponseValidationTest {
 	
 	@Test
 	public void verify() {

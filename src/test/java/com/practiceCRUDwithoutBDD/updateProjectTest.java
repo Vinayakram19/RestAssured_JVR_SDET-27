@@ -1,4 +1,4 @@
-package practiceCRUDwithoutBDD;
+package com.practiceCRUDwithoutBDD;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
@@ -9,7 +9,7 @@ import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 
-public class updateProject {
+public class updateProjectTest {
 	
 	@Test
 	public void updateproject() {
